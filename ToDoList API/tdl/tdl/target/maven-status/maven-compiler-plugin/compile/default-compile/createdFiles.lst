@@ -1,0 +1,4 @@
+com\sid\tdl\collector\HealthCheck.class
+com\sid\tdl\TdlApplication.class
+com\sid\tdl\entity\Task.class
+com\sid\tdl\collector\TaskEntry.class
